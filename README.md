@@ -1,13 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+<h1> Desafio de Projeto: Projeto reproduzido de acordo com as aulas do módulo Criando seu jogo no estilo Space Shooter</h1>
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+<p>Desafio de projeto da plataforma de cursos online <a href="https://web.dio.me/" target="_blank">DIGITAL INNOVATION ONE</a></p>
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+Código reproduzido de acordo com as aulas do módulo;
+## Implementações
+- Modal de game over com score.
